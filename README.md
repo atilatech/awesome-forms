@@ -2,7 +2,7 @@
 A collection of resources to make creating forms in your web app easier.
 
 ## awesome-forms-values
-We've all been there before. You want to add a commonly asked question to your web app form. E.g. "What is your academic major?" or "Select your Dietary Preference" but you don't want to manually add every single option. Use these data sources to  automatically creat the options for your forms.
+We've all been there before. You want to add a commonly asked question to your web app form, for example, ["What is your academic major?"](https://github.com/atilatech/awesome-forms/blob/master/awesome-forms-values/data/majors/majors.json) or "Select your [Dietary Preference](https://github.com/atilatech/awesome-forms/blob/master/awesome-forms-values/data/dietary/dietary.json)"; but you don't want to manually add every single option. Use these data sources to  automatically creat the options for your forms.
 
 
 **Protip:** You can Use [jqplay](https://jqplay.org/#) to filter the form values.
