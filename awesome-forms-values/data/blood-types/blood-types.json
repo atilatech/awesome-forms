@@ -1,0 +1,10 @@
+[
+    {"symbol": "A-", "name": "A Negative"},
+    {"symbol": "A+", "name": "A Positive"},
+    {"symbol": "AB-", "name": "AB Negative"},
+    {"symbol": "AB+", "name": "AB Positive"},
+    {"symbol": "B-", "name": "B Negative"},
+    {"symbol": "B+", "name": "B Positive"},
+    {"symbol": "O-", "name": "O Negative"},
+    {"symbol": "O+", "name": "O Positive"}
+]
